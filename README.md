@@ -1,4 +1,4 @@
-# [Bootstrap 初次練習 - Blue Dog](https://github.com/sbsy1517/BLUE-DOG)
+# [Bootstrap 初次練習 - Blue Dog](https://sbsy1517.github.io/BLUE-DOG/)
 
 Bootstrap 第一次練習做一個簡單的官網，
 
